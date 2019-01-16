@@ -1,0 +1,11 @@
+{
+  "name": "node-express-api",
+  "version": "1.0.0",
+  "description": "Simple Node API with JWT Authentication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tunmbi Banto",
+  "license": "ISC"
+}
