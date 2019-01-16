@@ -1,7 +1,7 @@
 # Node-Express-API
 
 ## Simple Node API with JWT Authentication
-
+LIVE URL to Test: https://node-express-jwt-api.herokuapp.com/
 
 ## Routes:
 ### POST /login
